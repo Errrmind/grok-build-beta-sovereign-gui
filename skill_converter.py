@@ -1,0 +1,1 @@
+Meta use of skill-creator: automatically turns generated projects into new reusable custom skills.

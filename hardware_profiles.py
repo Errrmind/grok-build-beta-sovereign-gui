@@ -1,0 +1,1 @@
+One-click hardware optimizer profiles for Nothing Phone, HP Pavilion, Dell Latitude, Singapore server.

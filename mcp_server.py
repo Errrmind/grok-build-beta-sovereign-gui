@@ -1,0 +1,1 @@
+FastAPI MCP server exposing generate, plan, hardware profile, skill conversion, and refine as callable tools for other agents.

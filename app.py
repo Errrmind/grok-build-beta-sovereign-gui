@@ -1,0 +1,1 @@
+Full enhanced Streamlit app with new modules integrated. See local /home/workdir/artifacts/grok-build-beta/app.py for complete code with hardware buttons, marketplace tab, voice, and convert-to-skill.
