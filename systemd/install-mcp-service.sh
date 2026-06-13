@@ -1,0 +1,1 @@
+One-command installer for the MCP systemd service.

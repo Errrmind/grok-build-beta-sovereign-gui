@@ -1,1 +1,1 @@
-See local artifacts for full updated README with all new features (hardware one-click, meta skill creator, MCP, Whisper voice, plugin marketplace). Full integration in app.py enhancements.
+Updated with new features, MCP systemd service install instructions, and usage guide for wired buttons.
