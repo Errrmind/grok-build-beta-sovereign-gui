@@ -1,1 +1,1 @@
-streamlit requests ollama fastapi uvicorn pydantic faster-whisper numpy
+Added streamlit-mermaid optional dependency for enhanced diagram support.

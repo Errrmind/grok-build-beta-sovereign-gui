@@ -1,1 +1,1 @@
-Full updated Streamlit app with all new buttons wired (hardware profiles, voice, convert-to-skill, plugin marketplace install).
+Updated with Mermaid 0.2.51-style rendering in file preview tabs + other UX improvements.
